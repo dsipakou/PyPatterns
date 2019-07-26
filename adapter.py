@@ -5,7 +5,7 @@ class Target:
 
 class Adaptee:
     def specific_request(self) -> str:
-        return "dlrow olleH"
+        return ".dlrow olleH"
 
 
 class Adapter(Target):
